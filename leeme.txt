@@ -1,0 +1,1 @@
+aqui subo pruebas en python con tensorflow y demás cosis
